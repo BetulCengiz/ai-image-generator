@@ -3,7 +3,7 @@
 Bu proje, Hugging Face API'sini kullanarak metin girdilerinden görseller oluşturan modern bir web uygulamasıdır. Kullanıcılar çeşitli modeller arasından seçim yapabilir, oluşturulacak görsel sayısını belirleyebilir ve farklı en boy oranları seçebilirler.
 
 ###  Uygulama Arayüzü
-![](Macbook.png) 
+![](/Macbook.png) 
 
 ## 🚀 Başlangıç
 
